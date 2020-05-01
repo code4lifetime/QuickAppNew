@@ -1,0 +1,8 @@
+D:\Projects\Angular\QuickAppNew\QuickApp-master\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+D:\Projects\Angular\QuickAppNew\QuickApp-master\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\Projects\Angular\QuickAppNew\QuickApp-master\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\Projects\Angular\QuickAppNew\QuickApp-master\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+D:\Projects\Angular\QuickAppNew\QuickApp-master\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+D:\Projects\Angular\QuickAppNew\QuickApp-master\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+D:\Projects\Angular\QuickAppNew\QuickApp-master\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+D:\Projects\Angular\QuickAppNew\QuickApp-master\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
